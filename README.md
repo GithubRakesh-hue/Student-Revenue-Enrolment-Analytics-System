@@ -60,7 +60,7 @@ This system functions as a modular pipeline designed to manage corporate data in
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/GithubRakesh-hue/Student-Revenue-Enrolment-Analytics-System.git 
    ```
 2. **Install systemic dependency requirements:**
    ```bash
